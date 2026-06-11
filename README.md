@@ -14,3 +14,8 @@ En general se ordenarán los archivos por fecha en directorios del tipo `aaaa/mm
 
 ## Otras eliminaciones
 - Boletines oficiales completos del 18 y 19 de mayo de 2020
+- DNIs
+
+## Agregados
+
+- Resolucion de archivo: `2020/07/30/MPF00462972_Art._199,_a).-_L_2303.__Archivo_de_la_denuncia_y_actuaciones_de_prevención__Atipicidad_1596136824.pdf`
